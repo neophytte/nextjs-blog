@@ -3,8 +3,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Fred Black'
-export const siteTitle = 'Example site'
+const name = 'Richard Mortimer'
+export const siteTitle = 'programmer, guitarist, dad and lovebird owner.'
 
 export default function Layout({ children, home }) {
   return (
